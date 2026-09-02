@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi，我是by
+一名正在学习AI工程的开发者，这里记录我的学习旅程～
 
-<!--
-**Teamerstar/Teamerstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 正在学习
+- LangChain应用开发
+- DeepSeek模型调用
+- RAG检索增强生成
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub统计
+![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+
+## 📫 联系我
+- 邮箱：你的邮箱
+- 博客：你的博客地址
